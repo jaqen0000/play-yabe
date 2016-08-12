@@ -2,5 +2,9 @@
 .project
 .settings
 .idea
-tmp
-eclipse
+/tmp
+/eclipse
+/modules
+/lib
+/test-result
+/logs
