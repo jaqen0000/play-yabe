@@ -4,3 +4,7 @@
 title=Title
 
 tags=Tags set
+
+secure.username=Your email:
+secure.password=Your password:
+secure.signin=Log in now
